@@ -1,13 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,11,20,24,30&text=Jay%20Prajapati&fontSize=62&fontAlignY=38&animation=twinkling&desc=Software%20Engineer%20•%20FullStack%20Developer%20•%20Creative%20Builder&descAlignY=58"/>
-
-</div>
-
----
-
-<div align="center">
-
 # ⚡ Hey, I'm Jay Prajapati 👋
 
 ### 💻 Building Premium Digital Experiences With Code & Creativity
@@ -20,38 +12,38 @@
 
 <div align="center">
 
-<a href="https://github.com/Jayprajapati27">
-<img src="https://img.shields.io/github/followers/Jayprajapati27?style=for-the-badge&logo=github&label=Followers&color=7F5AF0&labelColor=161B22" />
+<a href="https://www.linkedin.com/in/jayprajapati-exe">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/jayprajapati-exe">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://github.com/Jayprajapati27">
-<img src="https://komarev.com/ghpvc/?username=Jayprajapati27&style=for-the-badge&color=blueviolet" />
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://github.com/Jayprajapati27">
-<img src="https://img.shields.io/github/stars/Jayprajapati27?style=for-the-badge&logo=starship&color=F7B801&labelColor=161B22" />
+<a href="https://www.instagram.com/jayprajapati.dev">
+<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<a href="https://github.com/Jayprajapati27">
-<img src="https://img.shields.io/badge/Open%20Source-Lover-00C896?style=for-the-badge" />
+<a href="https://twitter.com/im_05">
+<img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjd1emNhZzh6Y29kYmY4aW9ka3M4MmVkc2pkMzA0a2g4eW53ZXA3YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 # 🧠 About Me
 
-```yaml
-Name: Jay Prajapati
-Role: Software Engineer
-Focus: FullStack Development + AI Workflows
-Location: India 🇮🇳
-Passion: Creating modern, scalable & premium products
-Current Goal: Building next-gen web experiences
-```
+Name: Jay Prajapati<br/>
+Role: Software Engineer<br/>
+Focus: FullStack Development + AI Workflows<br/>
+Location: India 🇮🇳<br/>
+Passion: Creating modern, scalable & premium products<br/>
+Current Goal: Building next-gen web experiences<br/>
 
 ### ⚡ What I Love Building
 
@@ -61,13 +53,6 @@ Current Goal: Building next-gen web experiences
 - 🌐 FullStack SaaS applications
 - 📱 Responsive modern interfaces
 - 🚀 Creative developer tools
-
-### 🔥 Current Mission
-
-> Turning ideas into beautiful and scalable digital products.
-
-<br>
-<br>
 
 ---
 
@@ -192,8 +177,7 @@ Current Goal: Building next-gen web experiences
   
 ![](https://github-readme-stats.shion.dev/api?username=Jayprajapati27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Jayprajapati27&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jayprajapati27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://komarev.com/ghpvc/?username=Jayprajapati27&icon=0&color=0)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jayprajapati27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
 
 </div>
@@ -207,39 +191,6 @@ Current Goal: Building next-gen web experiences
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayprajapati27&custom_title=Jay%20Prajapati's%20Contribution%20Graph&bg_color=0D1117&color=7F5AF0&line=7F5AF0&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/jayprajapati-exe">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/Jayprajapati27">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://www.instagram.com/jayprajapati.dev">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-<a href="https://twitter.com/im_05">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
-</div>
-
----
-
-# 🧩 Fun Developer Stuff
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-
-</div>
 
 ---
 
@@ -250,8 +201,6 @@ Current Goal: Building next-gen web experiences
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
-
----
 
 ---
 
