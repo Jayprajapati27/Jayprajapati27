@@ -257,9 +257,9 @@ Current Goal: Building next-gen web experiences
 
 # ⚡ Spotify / Music Section (Optional)
 
-<!-- Replace USER_ID with your Spotify ID -->
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default" />
-
+<a href="https://open.spotify.com/user/31noalenjyv6v6eoz477h3rfw7ki">
+  <img src="https://skillicons.dev/icons?i=spotify" />
+</a>
 
 ---
 
