@@ -257,9 +257,13 @@ Current Goal: Building next-gen web experiences
 
 # ⚡ Spotify / Music Section (Optional)
 
+<div align="center">
+
 <a href="https://open.spotify.com/user/31noalenjyv6v6eoz477h3rfw7ki">
   <img src="https://skillicons.dev/icons?i=spotify" />
 </a>
+
+</div>
 
 ---
 
