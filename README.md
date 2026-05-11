@@ -192,19 +192,9 @@ Current Goal: Building next-gen web experiences
   
 ![](https://github-readme-stats.shion.dev/api?username=Jayprajapati27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Jayprajapati27&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jayprajapati27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jayprajapati27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://komarev.com/ghpvc/?username=Jayprajapati27&icon=0&color=0)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
-
-</div>
-
----
-
-<br>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayprajapati27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -217,17 +207,6 @@ Current Goal: Building next-gen web experiences
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayprajapati27&custom_title=Jay%20Prajapati's%20Contribution%20Graph&bg_color=0D1117&color=7F5AF0&line=7F5AF0&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jayprajapati27&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
 ---
 
 # 🌐 Connect With Me
@@ -274,24 +253,13 @@ Current Goal: Building next-gen web experiences
 
 ---
 
-# 💭 Developer Quote
-
-<div align="center">
-
-A programming language is low level when its programs require attention to the irrelevant.
-
-   Jay Prajapati
-
-</div>
-
 ---
 
 # ⚡ Spotify / Music Section (Optional)
 
-```md
 <!-- Replace USER_ID with your Spotify ID -->
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default" />
-```
+
 
 ---
 
